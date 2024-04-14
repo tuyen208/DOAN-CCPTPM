@@ -12,18 +12,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Dự án: Website nhà thuốc Benzen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
         <h1>Dự án: Website nhà thuốc Benzen</h1>
     </header>
     <main>
-        <section id="thanh-vien-nhom">
-            <h2>Thành viên nhóm 10</h2>
-            <ul>
-                <li>Nguyễn Trung Tuyến</li>
-                <li>Lê Trung Huy</li>
-                <li>Thạch Trung Hiếu</li>
-            </ul>
-        </section>
         <section id="gioi-thieu">
             <h2>Giới thiệu</h2>
             <p>Dự án này nhằm phát triển một trang web cho nhà thuốc Benzen, một cửa hàng dược phẩm cung cấp các sản phẩm và dịch vụ chăm sóc sức khỏe.</p>
@@ -54,9 +50,11 @@
         </section>
     </main>
     <footer>
+        <p>&copy; 2024 Trung Tuyền. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
 
 
 
