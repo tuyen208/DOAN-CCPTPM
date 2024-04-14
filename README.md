@@ -24,6 +24,14 @@
             <h2>Giới thiệu</h2>
             <p>Dự án này nhằm phát triển một trang web cho nhà thuốc Benzen, một cửa hàng dược phẩm cung cấp các sản phẩm và dịch vụ chăm sóc sức khỏe.</p>
         </section>
+        <section id="thanh-vien-nhom">
+            <h2>Thành viên nhóm 10</h2>
+            <ul>
+                <li>Nguyen Trung Tuyen</li>
+                <li>Le Trung Huy</li>
+                <li>Thach Trung Hieu</li>
+            </ul>
+        </section>
         <section id="muc-tieu">
             <h2>Mục tiêu</h2>
             <p>Mục tiêu chính của dự án là tạo ra một giao diện trực quan và dễ sử dụng cho người dùng. Trang web sẽ cung cấp các chức năng như hiển thị danh sách sản phẩm, tìm kiếm sản phẩm, xem thông tin chi tiết và đặt hàng trực tuyến.</p>
@@ -50,10 +58,10 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Trung Tuyền. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
 
 
 ## 📫 How to reach me:
