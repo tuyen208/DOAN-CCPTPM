@@ -7,15 +7,54 @@
 
 
 <br />
-Dự án :  Website nhà thuốc Benzen
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dự án: Website nhà thuốc Benzen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Dự án: Website nhà thuốc Benzen</h1>
+    </header>
+    <main>
+        <section id="gioi-thieu">
+            <h2>Giới thiệu</h2>
+            <p>Dự án này nhằm phát triển một trang web cho nhà thuốc Benzen, một cửa hàng dược phẩm cung cấp các sản phẩm và dịch vụ chăm sóc sức khỏe.</p>
+        </section>
+        <section id="muc-tieu">
+            <h2>Mục tiêu</h2>
+            <p>Mục tiêu chính của dự án là tạo ra một giao diện trực quan và dễ sử dụng cho người dùng. Trang web sẽ cung cấp các chức năng như hiển thị danh sách sản phẩm, tìm kiếm sản phẩm, xem thông tin chi tiết và đặt hàng trực tuyến.</p>
+        </section>
+        <section id="chuc-nang">
+            <h2>Chức năng</h2>
+            <ul>
+                <li>Hiển thị danh sách sản phẩm</li>
+                <li>Tìm kiếm sản phẩm theo tên hoặc loại</li>
+                <li>Xem thông tin chi tiết về sản phẩm</li>
+                <li>Đặt hàng trực tuyến</li>
+                <li>Cung cấp thông tin về dịch vụ và khuyến mãi</li>
+                <li>Đăng ký thành viên để nhận thông tin và ưu đãi đặc biệt</li>
+                <li>Tương tác qua đánh giá và nhận xét từ người dùng</li>
+            </ul>
+        </section>
+        <section id="giao-dien">
+            <h2>Giao diện</h2>
+            <p>Giao diện của trang web sẽ được thiết kế hợp lý và tối ưu hóa cho cả máy tính và thiết bị di động.</p>
+        </section>
+        <section id="muc-tieu2">
+            <h2>Mục tiêu</h2>
+            <p>Tạo ra một nền tảng mua sắm trực tuyến tiện lợi và an toàn cho khách hàng, đồng thời nâng cao uy tín và hiệu quả kinh doanh của nhà thuốc Benzen trên mạng.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Trung Tuyền. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
-Dự án này bao gồm việc thiết kế và phát triển một trang web cho nhà thuốc Benzen, một cửa hàng dược phẩm cung cấp các sản phẩm và dịch vụ chăm sóc sức khỏe. Trang web sẽ được xây dựng bằng cách sử dụng công cụ thiết kế giao diện Figma để tạo ra các bản mẫu và bố cục trang.
-
-Mục tiêu chính của dự án là tạo ra một giao diện trực quan và dễ sử dụng cho người dùng. Trang web sẽ cung cấp các chức năng như hiển thị danh sách sản phẩm, cho phép người dùng tìm kiếm sản phẩm theo tên hoặc loại, xem thông tin chi tiết về từng sản phẩm, và thực hiện đặt hàng trực tuyến.
-
-Ngoài ra, trang web cũng sẽ cung cấp thông tin về các dịch vụ và chương trình khuyến mãi của nhà thuốc Benzen. Các tính năng khác bao gồm chức năng đăng ký thành viên để nhận thông tin mới nhất và ưu đãi đặc biệt, cũng như chức năng tương tác như đánh giá và nhận xét sản phẩm từ phía người dùng.
-
-Giao diện của trang web sẽ được thiết kế một cách hợp lý, với việc tối ưu hóa trải nghiệm người dùng trên cả máy tính và thiết bị di động. Mục tiêu là tạo ra một nền tảng mua sắm trực tuyến tiện lợi và an toàn cho khách hàng, đồng thời nâng cao uy tín và hiệu quả kinh doanh của nhà thuốc Benzen trên mạng.
 
 ## 📫 How to reach me:
 
