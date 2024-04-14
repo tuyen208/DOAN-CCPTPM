@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./q-m-k2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="qmk2">
+      <div class="khung16"></div>
+      <div class="box-ng-k-12">
+        <b class="tr-v1" id="trVText">&lt;&lt; Trở về</b>
+        <div class="box-ng-k2">
+          <div class="button-14" id="button1Container">
+            <b class="button-15">HOÀN TẤT</b>
+          </div>
+        </div>
+        <b class="qun-mt-khu">QUÊN MẬT KHẨU</b>
+        <div class="qmk1">
+          <div class="cha-nhn-c-container" id="chaNhnC">
+            <span class="cha-nhn-c-container1">
+              <span>Chưa nhận được mã?</span>
+              <span class="gi-li-m">
+                <span class="span4"> </span>
+                <span>Gửi lại mã</span>
+              </span>
+            </span>
+          </div>
+          <div class="button-5">
+            <div class="button-15">Gửi mã</div>
+          </div>
+          <div class="ti-khon-parent">
+            <div class="ti-khon">
+              <div class="div80">*</div>
+              <div class="ni-dung5"></div>
+              <div class="s-in-thoi2">Số điện thoại:</div>
+            </div>
+            <div class="mt-khu5">
+              <div class="nhp-m-xc">Nhập mã xác nhận:</div>
+              <div class="ni-dung5"></div>
+              <div class="div81">*</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img class="store-6-icon" alt="" src="./public/store-1@2x.png" />
+    </div>
+
+    <script>
+      var trVText = document.getElementById("trVText");
+      if (trVText) {
+        trVText.addEventListener("click", function (e) {
+          window.location.href = "./n.html";
+        });
+      }
+      
+      var button1Container = document.getElementById("button1Container");
+      if (button1Container) {
+        button1Container.addEventListener("click", function (e) {
+          window.location.href = "./at-lai-q-m-k.html";
+        });
+      }
+      
+      var chaNhnC = document.getElementById("chaNhnC");
+      if (chaNhnC) {
+        chaNhnC.addEventListener("click", function (e) {
+          window.location.href = "./q-m-k1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

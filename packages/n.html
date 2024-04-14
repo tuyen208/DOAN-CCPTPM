@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./n.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="n1">
+      <div class="khung-group">
+        <div class="khung31"></div>
+        <div class="box-ng-k-15">
+          <div class="box-ng-k4">
+            <div class="khung-ng-k2">
+              <div class="cha-c-ti">Chưa có tài khoản?</div>
+              <b class="ng-k-ngay" id="ngKNgay">Đăng ký ngay</b>
+            </div>
+            <div class="button-110">
+              <b class="button-111">ĐĂNG NHẬP</b>
+            </div>
+          </div>
+          <div class="n2">
+            <div class="ti-khon-container">
+              <div class="ti-khon7">
+                <div class="div242">*</div>
+                <div class="ni-dung14"></div>
+                <div class="s-in-thoi14">Số điện thoại:</div>
+              </div>
+              <div class="mt-khu8">
+                <div class="mt-khu9">Mật khẩu:</div>
+                <div class="ni-dung14"></div>
+                <div class="div243">*</div>
+              </div>
+            </div>
+            <b class="qun-mt-khu1" id="qunMtKhu">Quên mật khẩu</b>
+            <div class="vector-parent2">
+              <img class="vector-icon140" alt="" src="./public/vector24.svg" />
+
+              <div class="nh-mt-khu">Nhớ mật khẩu</div>
+            </div>
+          </div>
+          <b class="ng-nhp20">ĐĂNG NHẬP</b>
+        </div>
+      </div>
+      <img class="store-6-icon1" alt="" src="./public/store-1@2x.png" />
+    </div>
+
+    <script>
+      var ngKNgay = document.getElementById("ngKNgay");
+      if (ngKNgay) {
+        ngKNgay.addEventListener("click", function (e) {
+          window.location.href = "./k.html";
+        });
+      }
+      
+      var qunMtKhu = document.getElementById("qunMtKhu");
+      if (qunMtKhu) {
+        qunMtKhu.addEventListener("click", function (e) {
+          window.location.href = "./q-m-k1.html";
+        });
+      }
+      </script>
+  </body>
+</html>
