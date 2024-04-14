@@ -1,4 +1,5 @@
 Dự án :  Website nhà thuốc Benzen
+
 Dự án này bao gồm việc thiết kế và phát triển một trang web cho nhà thuốc Benzen, một cửa hàng dược phẩm cung cấp các sản phẩm và dịch vụ chăm sóc sức khỏe. Trang web sẽ được xây dựng bằng cách sử dụng công cụ thiết kế giao diện Figma để tạo ra các bản mẫu và bố cục trang.
 
 Mục tiêu chính của dự án là tạo ra một giao diện trực quan và dễ sử dụng cho người dùng. Trang web sẽ cung cấp các chức năng như hiển thị danh sách sản phẩm, cho phép người dùng tìm kiếm sản phẩm theo tên hoặc loại, xem thông tin chi tiết về từng sản phẩm, và thực hiện đặt hàng trực tuyến.
