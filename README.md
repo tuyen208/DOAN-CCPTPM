@@ -5,7 +5,6 @@
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
 
 <br />
 Dự án :  Website nhà thuốc Benzen
